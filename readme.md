@@ -8,7 +8,7 @@ NOTE: Instructions assume you are using a terminal/shell.
 
 ## Installation
 
-    $ git clone https://github.com/Rajaneesh12345/aaok-backend
+    $ git clone https://github.com/aaokweb/aaok_v1_back
     $ cd aaok-backend
     $ npm install
     The project is up and running in your local machine at PORT 5000
